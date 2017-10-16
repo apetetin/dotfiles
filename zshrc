@@ -29,5 +29,9 @@ export PATH="./bin:./node_modules/.bin:${PATH}:/usr/local/sbin"
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1"
+<<<<<<< HEAD
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1"
+=======
+>>>>>>> 356f4b29ca8c61671f54fe9f53b77b9f1d820419
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1"
